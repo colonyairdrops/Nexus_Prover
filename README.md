@@ -1,5 +1,7 @@
 # Nexus_Prover by @ColonyAirdrops
 
+- Video: [Youtube](https://youtu.be/j2kyQtwtmjw)
+
 ## Method 1. Web Browser
 Contribute to Nexus zkVM Prover : https://beta.nexus.xyz/
 
@@ -59,9 +61,7 @@ You'll get a `prover-id` file in `/root/.nexus/` representing your unique contri
 ![Screenshot_3](https://github.com/user-attachments/assets/5362c2b7-f116-4086-aeec-44fc7b425d05)
 
 
-## Track your Contribution
-***There is no wallet or social connection yet but team is tracking your computer Contributions and will add a leaderboard later***
-
-![image](https://github.com/user-attachments/assets/9f8f86bd-a250-4b9e-834c-170a3f66f371)
-
-![image](https://github.com/user-attachments/assets/6bf910e5-a9e0-443e-951a-bf828818fbfc)
+---
+- Done !! Feel free to ask queries in telegram channel
+- Telegram - https://t.me/colonyairdrops
+- Youtube - https://www.youtube.com/@ColonyAirdrops
