@@ -27,6 +27,9 @@ rustup update
 
 rustc --version
 ```
+```console
+sudo apt install -y protobuf-compiler
+```
 
 **5. Run Prover**
 
@@ -38,6 +41,7 @@ screen -S nexus
 ```console
 sudo curl https://cli.nexus.xyz/install.sh | sh
 ```
+- Enter prover id (watch youtube video to know how to get)
 
 To minimize screen: `CTRL+A+D`
 
