@@ -1,0 +1,18 @@
+# Nexus Testnet II Prover Node 
+
+## Method 1. Web Browser
+Contribute to Nexus zkVM Prover : https://app.nexus.xyz/
+
+## Method 2. Linux Server
+- If you are new user and did not do testnet 1 or you are using a new VPS follow this [Setup](https://github.com/colonyairdrops/Nexus_Prover/blob/main/README.md)
+- For Old user who did testnet 1 you can continue below
+
+*Open screen*
+```console
+screen -S nexus
+```
+*Run:*
+```console
+sudo curl https://cli.nexus.xyz/ | sh
+```
+- Enter prover id you copied from web browser
