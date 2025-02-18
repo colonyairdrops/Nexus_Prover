@@ -51,7 +51,7 @@ To retun screen: `screen -r nexus`
 
 To run the prover again if faced any issues
 ```console
-sudo curl https://cli.nexus.xyz/install.sh | sh
+sudo curl https://cli.nexus.xyz/ | sh
 ```
 
 **3. Save Prover ID file**
