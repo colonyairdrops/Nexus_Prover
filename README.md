@@ -41,7 +41,7 @@ screen -S nexus
 ```
 *Run:*
 ```console
-sudo curl https://cli.nexus.xyz/install.sh | sh
+sudo curl https://cli.nexus.xyz/ | sh
 ```
 - Enter prover id (watch youtube video to know how to get)
 
