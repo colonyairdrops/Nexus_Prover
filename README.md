@@ -3,7 +3,7 @@
 - Video: [Youtube](https://youtu.be/j2kyQtwtmjw)
 
 ## Method 1. Web Browser
-Contribute to Nexus zkVM Prover : https://beta.nexus.xyz/
+Contribute to Nexus zkVM Prover : https://app.nexus.xyz/
 
 
 ## Method 2. Linux Server
