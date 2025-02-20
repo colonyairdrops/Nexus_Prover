@@ -39,6 +39,9 @@ sudo apt-get remove -y protobuf-compiler && wget https://github.com/protocolbuff
 
 *Open screen*
 ```console
+sudo apt install screen
+```
+```console
 screen -S nexus
 ```
 
