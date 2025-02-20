@@ -13,6 +13,9 @@ Connect Wallet, Email (use same if did testnet 1) and copy your prover_id
 ```console
 screen -S nexus
 ```
+```console
+rustup target add riscv32i-unknown-none-elf
+```
 *Run:*
 ```console
 sudo curl https://cli.nexus.xyz/ | sh
