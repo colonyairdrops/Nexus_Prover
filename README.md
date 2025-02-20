@@ -25,6 +25,9 @@ source $HOME/.cargo/env
 export PATH="$HOME/.cargo/bin:$PATH"
 ```
 ```console
+rustup target add riscv32i-unknown-none-elf
+```
+```console
 rustup update
 
 rustc --version
