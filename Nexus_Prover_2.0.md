@@ -20,6 +20,9 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y protobuf-compiler
 ```
 ```console
+sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y
+```
+```console
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 - Click Enter to install default system settings
