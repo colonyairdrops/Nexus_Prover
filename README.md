@@ -90,6 +90,21 @@ nexus-network logout
 - Use `screen -r nexus` to attach screen
 
 ---
+
+*Update your Node*
+```
+screen -r nexus
+```
+- Type Q to quit the prover & type `clear` to clear the screen
+```
+sudo curl https://cli.nexus.xyz/ | sh
+```
+```
+source ~/.bashrc
+```
+- Now Register your Node again using any of the above method
+
+---
 - Done !! Feel free to ask queries in telegram channel
 - Telegram - https://t.me/colonyairdrops
 - Youtube - https://www.youtube.com/@ColonyAirdrops
