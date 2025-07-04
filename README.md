@@ -91,7 +91,7 @@ nexus-network logout
 
 ---
 
-*Update your Node*
+## *Update your Node*
 ```
 screen -r nexus
 ```
